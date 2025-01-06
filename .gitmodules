@@ -1,3 +1,6 @@
 [submodule "kobo-FetchSyllabus"]
 	path = kobo-FetchSyllabus
 	url = https://github.com/AaliyaJakir/kobo-FetchSyllabus.git
+[submodule "kobo-LogseqSearch"]
+	path = kobo-LogseqSearch
+	url = https://github.com/AaliyaJakir/kobo-LogseqSearch.git
