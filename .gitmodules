@@ -1,0 +1,3 @@
+[submodule "kobo-FetchSyllabus"]
+	path = kobo-FetchSyllabus
+	url = https://github.com/AaliyaJakir/kobo-FetchSyllabus.git
