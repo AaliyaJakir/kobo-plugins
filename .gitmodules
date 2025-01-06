@@ -4,3 +4,6 @@
 [submodule "kobo-LogseqSearch"]
 	path = kobo-LogseqSearch
 	url = https://github.com/AaliyaJakir/kobo-LogseqSearch.git
+[submodule "kobo-QuizGenerator"]
+	path = kobo-QuizGenerator
+	url = https://github.com/AaliyaJakir/kobo-QuizGenerator.git
